@@ -81,7 +81,7 @@ I have real-world experience working on enterprise systems, implementing busines
 
 </div>
 
-</div>
+<div>
 
 ![Snake animation](https://github.com/AndrAlcsndr/AndrAlcsndr/blob/output/github-contribution-grid-snake.svg)
 
