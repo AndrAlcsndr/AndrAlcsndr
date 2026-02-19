@@ -1,5 +1,4 @@
 <div align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/346572dc-628b-4e3c-990a-77f76057fd1a" />
 
   <h1>💜 Hello, I'm André</h1>
 
